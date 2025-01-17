@@ -17,7 +17,3 @@ run_mpi:
 clean:
 	@echo "No files to clean."
 
-# This is a placeholder for compiling the C or other language files if necessary
-# For example, if you had a C file to compile:
-# my_program: my_program.c
-# 	$(MPICC) -o my_program my_program.c
